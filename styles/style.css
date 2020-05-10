@@ -84,8 +84,11 @@ hr.header-footer-hr {
 }
 
 
-
-
+/* form fields on mockup 4 */
+.information-input {
+  margin-left:50px;
+  margin-top: 9px;
+}
 
 
 /* footer styles */

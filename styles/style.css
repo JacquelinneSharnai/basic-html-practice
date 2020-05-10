@@ -5,3 +5,51 @@ a {
 a img {
   width: 50px;
 }
+
+
+/* Style the search box in header */
+.search-text-input {
+  border-radius: 25px;
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Style the search field */
+form.example input[type=text] {
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 30%;
+  background: #FFFFFF;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 5%;
+  background: #FFFFFF;
+  color: black;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}

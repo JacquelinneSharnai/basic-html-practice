@@ -34,7 +34,13 @@ a img {
 } 
 
 
-/* Red border */
+/* black horizontal lines */
 hr.header-bottom-hr {
   border-top: 3px solid black;
+}
+
+.center {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
 }

@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 a {
   text-decoration: none;
 }
@@ -28,3 +32,9 @@ a img {
   width: 100px;
   margin-bottom: 30px; 
 } 
+
+
+/* Red border */
+hr.header-bottom-hr {
+  border-top: 3px solid black;
+}

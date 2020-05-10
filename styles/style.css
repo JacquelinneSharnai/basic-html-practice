@@ -1,16 +1,15 @@
-* {
-  box-sizing: border-box;
-}
-
 a {
   text-decoration: none;
 }
 
+
+/* nav icons */
 a img {
   width: 50px;
 }
 
-/* styling search box and icon */
+
+/* styl3 search box and icon */
 .input-icons i { 
   position: absolute; 
   margin-left: -10px;
@@ -35,12 +34,63 @@ a img {
 
 
 /* black horizontal lines */
-hr.header-bottom-hr {
+hr.header-footer-hr {
   border-top: 3px solid black;
 }
 
+
+/* content-header */
+.content-header {
+  margin-left:50px;
+}
+
+
+/* content box */
+.content-box {
+ height: 317px;
+}
+
+
+/* mockup 2 center image */
 .center {
   margin: auto;
   width: 70%;
   padding: 10px;
+}
+
+
+/* style boxes around mockup 3 text */
+.boxed-pets {
+  border: 2px solid black ;
+  width: 120px;
+  margin-left: 89px;
+  margin-top: -11px;
+}
+
+.boxed-cities {
+  border: 2px solid black ;
+  width: 120px;
+  margin-left: 89px;
+  margin-top: 10px;
+}
+
+
+/* boxed button on mockup 3 */
+.boxed-button {
+  border: 2px solid black ;
+  width: 183px;
+  margin-left: 160px;
+  margin-top: 55px;
+}
+
+
+
+
+
+
+/* footer styles */
+footer {
+  background-color: #c1c1c1; 
+  max-width: 512px; 
+  height: 25px;
 }

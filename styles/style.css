@@ -67,47 +67,47 @@ footer {
 }
 
 
-/* mockup 2 center image
+/* mockup 2 center image */
 .center {
   margin: auto;
   width: 70%;
   padding: 10px;
-} */
+}
 
 
-/* style boxes around mockup 3 text
+/* style boxes around mockup 3 text */
 .boxed-pets {
   border: 2px solid black ;
   width: 120px;
-  margin-left: 89px;
-  margin-top: -11px;
+  margin-left: auto;
+  margin-top: 0px;
 }
 
 .boxed-cities {
   border: 2px solid black ;
   width: 120px;
-  margin-left: 89px;
-  margin-top: 10px;
-} */
+  margin-left: 25px;
+  margin-top: 23px;
+}
 
 
-/* boxed button on mockup 3
+/* boxed button on mockup 3 */
 .boxed-button {
   border: 2px solid black ;
   width: 183px;
-  margin-left: 160px;
-  margin-top: 55px;
-} */
+  margin-left: 35px;
+  margin-top: 15px;
+}
 
 
-/* form fields on mockup 4
+/* form fields on mockup 4 */
 .information-input {
   margin-left:50px;
   margin-top: 9px;
-} */
+}
 
 
-/* styles for table on mockup 5
+/* styles for table on mockup 5 */
 .table {
   border: 1px solid black;
   width: 450px;
@@ -126,6 +126,6 @@ footer {
   border-left: 2px solid #000;
   border-right: 2px solid #000;
   border-top: none!important;
-} */
+}
 
 

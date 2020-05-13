@@ -1,0 +1,51 @@
+a {
+    text-decoration: none;
+  }
+  
+  
+/* nav icons */
+a img {
+    width: 50px;
+}
+
+
+body {
+    border: black; border-style: solid;
+}
+
+
+@media (min-width: 320px) {
+    .jumbotron {
+        padding: 0px;
+    }
+}
+
+
+/* style search box and icon */
+.input-icons i { 
+    position: absolute; 
+    margin-left: -10px;
+  } 
+  
+  .input-icons { 
+    width: 100%; 
+    margin-bottom: 10px; 
+  } 
+  
+  .icon { 
+    padding: 15px; 
+    min-width: 60px; 
+  } 
+  
+  .input-field { 
+    text-align: center;
+    border-radius: 25px;
+    width: 100px;
+    margin-bottom: 30px; 
+  } 
+
+
+  /* black horizontal lines */
+hr.header-footer-hr {
+    border-top: 3px solid black;
+  }

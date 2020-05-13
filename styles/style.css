@@ -9,7 +9,7 @@ a img {
 }
 
 
-/* styl3 search box and icon */
+/* style search box and icon */
 .input-icons i { 
   position: absolute; 
   margin-left: -10px;
@@ -39,11 +39,27 @@ hr.header-footer-hr {
 }
 
 
-/* content-header */
-.content-header {
-  margin-left:50px;
+/* footer styles */
+footer {
+  background-color: #c1c1c1;  
+  height: 25px;
+  width: 100%;
 }
 
+
+/* content-header */
+.content-header {
+  margin-left: 0px;
+}
+
+
+/* container */
+.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 37%;
+}
 
 /* content box */
 .content-box {
@@ -51,15 +67,15 @@ hr.header-footer-hr {
 }
 
 
-/* mockup 2 center image */
+/* mockup 2 center image
 .center {
   margin: auto;
   width: 70%;
   padding: 10px;
-}
+} */
 
 
-/* style boxes around mockup 3 text */
+/* style boxes around mockup 3 text
 .boxed-pets {
   border: 2px solid black ;
   width: 120px;
@@ -72,26 +88,26 @@ hr.header-footer-hr {
   width: 120px;
   margin-left: 89px;
   margin-top: 10px;
-}
+} */
 
 
-/* boxed button on mockup 3 */
+/* boxed button on mockup 3
 .boxed-button {
   border: 2px solid black ;
   width: 183px;
   margin-left: 160px;
   margin-top: 55px;
-}
+} */
 
 
-/* form fields on mockup 4 */
+/* form fields on mockup 4
 .information-input {
   margin-left:50px;
   margin-top: 9px;
-}
+} */
 
 
-/* styles for table on mockup 5 */
+/* styles for table on mockup 5
 .table {
   border: 1px solid black;
   width: 450px;
@@ -110,12 +126,6 @@ hr.header-footer-hr {
   border-left: 2px solid #000;
   border-right: 2px solid #000;
   border-top: none!important;
-}
+} */
 
 
-/* footer styles */
-footer {
-  background-color: #c1c1c1; 
-  max-width: 512px; 
-  height: 25px;
-}

@@ -91,7 +91,7 @@ footer {
        margin-left: 200px;
     }
 }
-  @media screen and (max-width:1199) and (min-width: 992px) {
+  @media screen and (max-width:1199px) and (min-width: 992px) {
     div.col-sm-4 {
         max-width: 450px;
        flex: 450px;

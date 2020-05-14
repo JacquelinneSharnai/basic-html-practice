@@ -64,8 +64,30 @@ footer {
 .content-header {
     }
 
+    .information-input {
+      margin-left: 50px;
+    }
+
+    @media screen and (max-width: 575px) and (min-width: 320px) {
+      .information-input {
+        margin-left: 30px;
+      }
+    }
+
 .content-body {
     margin-left: 50px;
+  }
+
+  @media screen and (max-width: 575px) and (min-width: 320px) {
+    .content-body {
+      margin-left: 30px;
+    }
+  }
+
+  @media screen and (max-width: 575px) and (min-width: 320px) {
+    .content-body {
+      margin-left: 30px;
+    }
   }
 
   @media screen and (max-width: 575px) and (min-width: 320px) {
